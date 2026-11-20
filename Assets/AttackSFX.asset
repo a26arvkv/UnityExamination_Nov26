@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-7299716853372863361
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_melee_high_short_01_{-7299716853372863361}
+  m_AudioClip: {fileID: 8300000, guid: 093282100cd4263429c44e94da625fd1, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7262833275299881721
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_melee_high_short_04_{-7262833275299881721}
+  m_AudioClip: {fileID: 8300000, guid: 17c7623a48a08234ca1e009452e70cd4, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1004869828883892589
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_melee_high_short_05_{1004869828883892589}
+  m_AudioClip: {fileID: 8300000, guid: 3959b805365105844bad327f9aeaee91, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1712342348989136803
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_melee_high_short_06_{1712342348989136803}
+  m_AudioClip: {fileID: 8300000, guid: 596f9b9a47d56204184312d44bf7d524, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &4732328357411087860
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_melee_high_short_02_{4732328357411087860}
+  m_AudioClip: {fileID: 8300000, guid: 0b3cc1122a3fa5d45a48be6ae41850fe, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AttackSFX
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: -153.19147, y: 153.19147}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -7299716853372863361}
+  - {fileID: 4732328357411087860}
+  - {fileID: 6509866433523817406}
+  - {fileID: -7262833275299881721}
+  - {fileID: 1004869828883892589}
+  - {fileID: 1712342348989136803}
+  - {fileID: 7914447428740600736}
+  - {fileID: 7877887525507956550}
+  m_AvoidRepeatingLast: 3
+  m_PlaybackMode: 2
+  m_TriggerMode: 0
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 1
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &6509866433523817406
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_melee_high_short_03_{6509866433523817406}
+  m_AudioClip: {fileID: 8300000, guid: 0b2ff2a04fa92c14da21f3ca81b72ac8, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &7877887525507956550
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_melee_high_short_08_{7877887525507956550}
+  m_AudioClip: {fileID: 8300000, guid: 208383a63a5ae7b41b76368f6c491edf, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &7914447428740600736
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: player_melee_high_short_07_{7914447428740600736}
+  m_AudioClip: {fileID: 8300000, guid: 065c261fdb31d6047a92f40e59833988, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
